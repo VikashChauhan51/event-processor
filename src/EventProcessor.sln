@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventProcessor.Client", "Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventProcessor.Server", "EventProcessor.Server\EventProcessor.Server.csproj", "{EB9D1918-F553-41AF-B466-C80C471B9E6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventProcessor.Service", "EventProcessor.Service\EventProcessor.Service.csproj", "{9EA24348-7797-4B77-8EEC-0F1C8B8E1EC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EB9D1918-F553-41AF-B466-C80C471B9E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB9D1918-F553-41AF-B466-C80C471B9E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB9D1918-F553-41AF-B466-C80C471B9E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA24348-7797-4B77-8EEC-0F1C8B8E1EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA24348-7797-4B77-8EEC-0F1C8B8E1EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA24348-7797-4B77-8EEC-0F1C8B8E1EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA24348-7797-4B77-8EEC-0F1C8B8E1EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
